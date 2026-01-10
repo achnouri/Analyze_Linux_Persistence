@@ -648,3 +648,19 @@ main() {
 }
 
 main
+
+
+# Author: achnouri
+
+# Project: Linux Persistence Techniques Framework
+
+# Purpose:
+#   Educational and authorized security research framework intended for
+#   Blue Team detection, Red Team simulation in controlled environments,
+#   and Purple Team collaboration
+
+# Disclaimer:
+#   This script is provided for educational, research, and defensive
+#   security purposes only.
+#	For authorized security testing and research only
+#
